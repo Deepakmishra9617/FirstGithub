@@ -15,7 +15,7 @@ This is a beginner-friendly project demonstrating a simple web page. It includes
 
 This project is mainly for learning purposes and serves as my first step into GitHub. It helps me understand how repositories work and how to structure code on GitHub. :contentReference[oaicite:1]{index=1}
 
----
+----
 
 ## 📁 Repository Structure
 
